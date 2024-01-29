@@ -1,0 +1,20 @@
+ Mark Zuckerberg Shuts Down Facebook’s Artificial Intelligence After It Develops Its Own Language 
+
+
+
+
+Recently, two billionaire tech revolutionaries had a little public tiff about the future of Artificial Intelligence.
+Mark Zuckerberg made a livestream video to share his views on why we need AI for a better tomorrow, and called out to Elon Musk for disagreeing.
+“I think people who are naysayers and try to drum up these doomsday scenarios — I just, I don’t understand it. It’s really negative and in some ways I actually think it is pretty irresponsible.”
+“Whenever I hear AI is going to hurt people in the future, I think yeah, you know, technology can generally always be used for good and bad, and you need to be careful about how you build and how it is going to be used.”
+Musk replied with a single Tweet and shut down the case with the Facebook inventor.
+Musk stuck to his belief that AI is “the greatest risk we face as a civilisation” and “It could start a war”. The legend obviously knew what he was talking about. But looks like Zuckerberg might have to bite his tongue for speaking a little too soon.
+Newsflash: Facebook researchers had to stop an under-progress AI program “because things got out of hand”.
+Umm, that’s putting it mildly – The AI developed its own damn language.
+The ‘chatbots’ went against what they were taught and made up totally new code words on their own, without any help from humans, to make communication more efficient. AI agents sensed danger when they had no clue about what was being said.
+The bots were uttering gibberish. But it wasn’t without meaning. Semantics figured the codes made sense. In fact, researchers realised they bots are “incredibly crafty negotiators”.
+“After learning to negotiate, the bots relied on machine learning and advanced strategies in an attempt to improve the outcome of these negotiations. Over time, they became quite skilled at it and even began feigning interest in one item in order to ‘sacrifice’ it at a later stage in the negotiation as a faux compromise,” said a report in HT.
+Is this Frankenstein’s monster in the making? Will the creation try to defy its own master? Are we making the world greater with technology or putting it at inevitable risk?
+Musk isn’t the only skeptical one. Many iconic innovators and visionaries such as Bill Gates and Steve Wozniak have voiced their concerns regarding the potential dangers that can be posed by AI in the times ahead.
+A big scare occurred last year as well when Google Translate quietly invented its own system to match languages without supervision.
+This technology could take over and rule humankind someday if the makers aren’t extremely careful. It has showed signs of having a mind of its own already. Here’s hoping we remain the more intelligent race.
